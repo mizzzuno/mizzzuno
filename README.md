@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a University student.
 - 🌱 I’m currently learning Web development!
-- 📫 How to reach me: [Twitter - @miz04_](https://x.com/miz04)
+- 📫 How to reach me: [Twitter - @miz04_](https://x.com/miz04_)
 <br>
 
 
