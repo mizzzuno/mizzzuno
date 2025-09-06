@@ -3,32 +3,33 @@
   <img src="https://komarev.com/ghpvc/?username=mizzzuno" />
 </div>
 
-
 <!-- 2. プロフィールや連絡先を変更 -->
+
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a University student.
 - 🌱 I’m currently learning Web development!
-- 📫 How to reach me: [Twitter - @miz04_](https://x.com/miz04_)
-<br>
-
+- 📫 How to reach me: [Twitter - @miz04\_](https://x.com/miz04_)
+  <br>
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
+
 ## 🌱 Skills
+
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,npm,mui,c,python,vercel,aws,github,discord,vscode,apple" />
 <br>
 
-
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=mizzzuno&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizzzuno&theme=vue-dark&layout=compact" />
-</div>
 
+## 🏃‍♀️ Activities
+
+<div align="left"> 
+  <img alt="GitHub Stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=mizzzuno&theme=vue-dark&show_icons=true" />
+  <img alt="Top Languages" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizzzuno&exclude_repo=PAS_django&theme=vue-dark&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&cache_seconds=7200&v=2" />
+</div>
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,4 +45,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
