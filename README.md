@@ -10,7 +10,7 @@
 - 🧑‍💻 I'm a University student.
 - 🌱 I’m currently learning Web development!
 - 📫 How to reach me: [Twitter - @miz04\_](https://x.com/miz04_)
-## 🏆Awards
+## 🏆 Awards
 - 技育博2025vol1 ウイングアーク1st賞
 - 技育祭2025秋 特別企画ハッカソン ラムダ技術部賞 ロッシー賞
   <br>
