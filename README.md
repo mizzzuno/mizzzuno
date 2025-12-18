@@ -45,7 +45,7 @@
 
 ## 🌱 Skills
 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,npm,mui,tailwindcss,c,python,fastapi,r,unity,vercel,aws,github,githubactions,discord,vscode,apple" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=js,ts,react,next,mui,tailwindcss,c,python,fastapi,r,unity,vercel,aws,githubactions" />
 <br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
