@@ -8,11 +8,35 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a University student.
-- 🌱 I’m currently learning Web development!
+- 🌱 I’m currently learning Web development & AI
 - 📫 How to reach me: [Twitter - @miz04\_](https://x.com/miz04_)
+<!--
+## 🏫 Affiliation
+
+| Type | Official name | Note |
+|---|---|---|
+| University | Tokai Univ. | Dept. of Applied Computer Engr.,Sch. of Info. Sci. & Tech., |
+| Part-time | PR TIMES Corporation. | Frontend Engineer |
+| Offer | Works Human Intelligence Co., Ltd. | Engineer  ~April/27 |
+
+| Type | Official name | Note |
+|---|---|---|
+| University | 東海大学 | 情報理工学部 コンピュータ応用工学科 |
+| Part-time | 株式会社PR TIMES | フロントエンドエンジニア |
+| Offer | 株式会社Works Human Intelligence | エンジニア  (2027/4~) |
+-->
+## 🏢 Affiliation
+
+| Type | Official name | Note |
+|---|---|---|
+| University | 東海大学 | School of Information Science & Technology /<br> Dept. of Applied Computer Engineering |
+| Part-time | 株式会社PR TIMES | Frontend Engineer |
+| Incoming (New Grad) | 株式会社Works Human Intelligence | Engineer (from Apr 2027) |
+
 ## 🏆 Awards
 - 技育博2025vol1 ウイングアーク1st賞
 - 技育祭2025秋 特別企画ハッカソン ラムダ技術部賞 ロッシー賞
+- DDS主催CTF 6位
   <br>
 
 <!-- 3. 好きな技術スタックに変更 -->
