@@ -8,7 +8,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm a University student.
-- 🌱 I’m currently learning Web development and Machine Learning
+- 🌱 Currently learning Web development & Machine Learning
 - 📫 How to reach me: [Twitter - @miz04\_](https://x.com/miz04_)
 <!--
 ## 🏫 Affiliation
