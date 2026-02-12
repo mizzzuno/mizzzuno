@@ -30,7 +30,7 @@
 | Type | Official name | Note |
 |---|---|---|
 | University | 東海大学 | School of Information Science & Technology /<br> Dept. of Applied Computer Engineering |
-| Part-time | 株式会社PR TIMES | Frontend Engineer |
+| Internship | 株式会社PR TIMES | Frontend Engineer |
 | Incoming (New Grad) | 株式会社Works Human Intelligence | Engineer (from Apr 2027) |
 
 ## 🏆 Awards
