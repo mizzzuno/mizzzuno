@@ -73,4 +73,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 [![Gitty Score](https://gitty-code.com/api/badge/mizzzuno.png)](https://gitty-code.com/user/mizzzuno)
+-->
