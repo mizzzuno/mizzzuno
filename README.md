@@ -26,8 +26,6 @@
 | Part-time  | 株式会社PR TIMES                 | フロントエンドエンジニア            |
 | Offer      | 株式会社Works Human Intelligence | エンジニア (2027/4~)                |
 
--->
-
 ## 🏢 Affiliation
 
 | Period              | Official name                    | Note                                                                                   |
@@ -35,6 +33,14 @@
 | Apr 2023 - Mar 2027 | 東海大学                         | School of Information Science & Technology /<br> Dept. of Applied Computer Engineering |
 | Sep 2025 - Jul 2026 | 株式会社PR TIMES                 | Frontend Engineer _(Internship)_                                                       |
 | Sep 2026 -          | 株式会社Works Human Intelligence | Engineer _(Internship)_                                                                |
+
+-->
+
+| Period              | Official name                      | Note                                                                                   |
+| ------------------- | ---------------------------------- | -------------------------------------------------------------------------------------- |
+| Apr 2023 - Mar 2027 | Tokai Univ.                        | School of Information Science & Technology /<br> Dept. of Applied Computer Engineering |
+| Sep 2025 - Jul 2026 | PR TIMES Corporation.              | Frontend Engineer _(Internship)_                                                       |
+| Sep 2026 -          | Works Human Intelligence Co., Ltd. | Engineer _(Internship)_                                                                |
 
 ## 🏆 Awards
 
