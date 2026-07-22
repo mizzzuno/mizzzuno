@@ -40,7 +40,7 @@
 | ------------------- | ---------------------------------- | -------------------------------------------------------------------------------------- |
 | Apr 2023 - Mar 2027 | Tokai Univ.                        | School of Information Science & Technology /<br> Dept. of Applied Computer Engineering |
 | Nov 2025 - Jul 2026 | PR TIMES Corporation.              | Frontend Engineer _(Internship)_                                                       |
-| Sep 2026 -          | Works Human Intelligence Co., Ltd. | Engineer _(Internship)_                                                                |
+| Oct 2026 -          | Works Human Intelligence Co., Ltd. | Engineer _(Internship)_                                                                |
 
 ## 🏆 Awards
 
