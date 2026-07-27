@@ -49,6 +49,11 @@
 - DDS主催CTF 6位
   <br>
 
+## 📝 Articles
+
+- [何も理解できていなかった自分が、実務インターンで「自分の意見を持ったエンジニア」を目指した半年間](https://zenn.dev/mizzzuno/articles/28d271ef7d885b)
+  <br>
+
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
